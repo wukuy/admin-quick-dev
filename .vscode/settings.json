@@ -1,0 +1,8 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/lang"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
